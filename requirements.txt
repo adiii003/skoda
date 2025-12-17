@@ -6,4 +6,5 @@ Faiss-cpu
 sentence-transformers==2.2.2
 huggingface-hub==0.20.2
 tiktoken==0.5.2
+fastapi
 python-dotenv==1.0.0
