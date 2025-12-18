@@ -17,6 +17,3 @@ faiss-cpu
 sentence-transformers>=2.7.0
 transformers>=4.40.0,<5
 huggingface-hub>=0.20.3
-
-# Tokenization (FIXED)
-tiktoken>=0.6.0
